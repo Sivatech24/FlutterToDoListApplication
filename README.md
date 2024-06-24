@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 flutter doctor
 
-![Screenshot (1)](https://github.com/Sivatech24/FlutterToDoListApplication/assets/93309902/cb540d15-bf3f-411d-9cb0-a4352c7a6fa0)
-
+![Screenshot (1)](https://github.com/Sivatech24/FlutterToDoListApplication/assets/93309902/7cab659a-8610-48d1-8bce-e9df2174efd1)
 
 Doctor summary (to see all details, run flutter doctor -v):
 [√] Flutter (Channel stable, 3.22.2, on Microsoft Windows [Version 10.0.22631.3737], locale en-IN)
